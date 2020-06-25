@@ -1,0 +1,2 @@
+# projectSlidebyMD
+VSCodeの拡張機能MarpでMarkDownでスライドを作成した
