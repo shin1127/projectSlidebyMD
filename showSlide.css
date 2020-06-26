@@ -1,0 +1,17 @@
+body {
+  padding: 1vw;
+}
+
+/* .float {
+  float: right;
+  text-align: left;
+} */
+iframe {
+  margin: 10px;
+}
+
+iframe.slide {
+  width: 600px;
+  height: 500px;
+  float: left;
+}
